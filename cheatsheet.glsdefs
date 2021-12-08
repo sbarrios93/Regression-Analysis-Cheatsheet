@@ -1,0 +1,30 @@
+\ifglsentryexists{Marginal Distribution}{}%
+{%
+\gls@defglossaryentry{Marginal Distribution}%
+{%
+name={includes all possible ranges for any x},%
+sort={includes all possible ranges for any x},%
+type={acronym},%
+first={C\glsspace (includes all possible ranges for any x)},%
+firstplural={Cs\glsspace (includes all possible ranges for any xs)},%
+text={includes all possible ranges for any x},%
+plural={includes all possible ranges for any xs},%
+description={C},%
+descriptionplural={C\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={C},%
+longplural={Cs},%
+short={includes all possible ranges for any x},%
+shortplural={includes all possible ranges for any xs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
